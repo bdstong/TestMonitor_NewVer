@@ -46,7 +46,7 @@ namespace DVW
 
         public float max_voltage;
 
-        //电压通道
+        //电压 通道
         public byte XiYouYaLi_Chn = 0;
         public byte XiTongYaLi_Chn = 1;
         public byte BengPLYaLi_Chn = 2;

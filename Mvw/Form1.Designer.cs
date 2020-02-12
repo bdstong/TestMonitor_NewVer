@@ -3879,7 +3879,7 @@
             // 
             this.ack_label.AutoSize = true;
             this.ack_label.Font = new System.Drawing.Font("宋体", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.ack_label.Location = new System.Drawing.Point(407, 14);
+            this.ack_label.Location = new System.Drawing.Point(401, 13);
             this.ack_label.Name = "ack_label";
             this.ack_label.Size = new System.Drawing.Size(58, 21);
             this.ack_label.TabIndex = 0;
